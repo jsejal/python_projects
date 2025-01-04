@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+spacy
+PyPDF2
+elasticsearch
+boto3
+python-multipart
+transformers
